@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on creating an immersive full stack application using Spring Boot and ReactJS<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning Spring Boot<br>🏠 I'm based in Broadlands, VA<br>
+🔭 I'm currently learning more about RAG and LLMs<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning Spring Boot<br>🏠 I'm based in Broadlands, VA<br>
 
 
 ## 🌐 Socials:
