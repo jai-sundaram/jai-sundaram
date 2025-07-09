@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on interesting projects at Gatora and the SPLICE catalog.<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning Spring Boot<br>🏠 I'm based in Broadlands, VA<br>
+🔭 I'm currently contributing to interesting projects at Gatora and the SPLICE catalog<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning more about GenAI<br>🏠 I'm based in Broadlands, VA<br>
 
 
 ## 🌐 Socials:
