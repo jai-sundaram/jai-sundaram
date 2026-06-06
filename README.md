@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently contributing to interesting projects at Altius<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning more about GenAI<br>🏠 I'm based in Broadlands, VA<br>
+🔭 I'm currently interning at CarMax as a Software Engineer<br>🤝 I'm looking forward to collaborate on open source projects<br>🌱 I'm currently learning more about backend & cloud enginering<br>🏠 I'm based in Broadlands, VA<br>
 
 
 ## 🌐 Socials:
